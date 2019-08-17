@@ -1,7 +1,7 @@
 {
   "name": "test",
   "version": "0.1.0",
-  "homepage" : "http://broadtube.github.io/test"
+  "homepage" : "https://broadtube.github.io/test/",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
